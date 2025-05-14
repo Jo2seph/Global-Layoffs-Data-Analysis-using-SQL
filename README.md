@@ -1,4 +1,15 @@
 # Global-Layoffs-Data-Analysis-using-SQL
+
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Data Source](#data-source)
+- [Tools](#tools)
+- [Key Questions asked](#key-questions-asked)
+- [Data Cleaning](#data-cleaning)
+- [Exploratory data analysis](#exploratory-data-analysis)
+- [Conclusion](#conclusion)
+- [References](#conclusion)
+- 
 ### Project Overview
 The primary goal of this project is to analyze global layoff data to identify trends, patterns, and insights. This analysis will help understand the factors influencing layoffs, the industries most affected and geographical trends.
 ### Data Source
@@ -54,7 +65,8 @@ MYSQL Server – Data cleaning and analysis [Download here (https://www.google.c
 
 - Is there a correlation between company size and layoffs ?
 -
-### Data Cleaning and Data Analysis
+### Data Cleaning 
+
 #### Creating a Staging Table
 Before performing any data manipulation to my original ‘layoffs’ table, I created a staging table to work with. This table, ‘layoffs_staging’, is a direct copy of my original raw data table but, changes made to this data will not affect the root table
 
