@@ -124,4 +124,5 @@ row_num column was also deleted.
     AND percentage_laid_off is NULL;
 
 ### Exploratory data analysis
-![Top 10 companies with the most layoff and their stages2](top.10.companies.with.the.most.layoff.and.their.stages2.png).
+![Total Layoffs Per Year2](https://github.com/user-attachments/assets/2880a35d-eb46-487d-8a35-3635c4972a97)
+g).
