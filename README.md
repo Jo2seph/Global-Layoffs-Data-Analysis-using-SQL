@@ -124,5 +124,36 @@ row_num column was also deleted.
     AND percentage_laid_off is NULL;
 
 ### Exploratory data analysis
+
+The dataset records layoff data spanning from 2020-03-11 to 2023-03-06. This period captures significant global economic events, including the impacts of the COVID-19 pandemic, which began in early 2020, and the subsequent economic recovery phases. Analyzing data from this timeframe provides valuable insights into how different industries and regions were affected by these challenges.
+
+#### Layoffs Per Year
+2022 faced the greatest impact of layoffs with over 160,000 layoffs from over 900 different companies. In 2023, the largest corporations were affected the most, laying off thousands at a time, with the second-most layoffs in total while just being in the first quarter. 
+
 ![Total Layoffs Per Year2](https://github.com/user-attachments/assets/2880a35d-eb46-487d-8a35-3635c4972a97)
 g).
+
+Out of all 383,159 layoffs, 75% of the layoffs occurred in 2022 and 2023.
+
+![Total layoffs per month](https://github.com/user-attachments/assets/e22f0c6b-69b4-46f6-9e3e-87e1c8d2f237)
+
+As shown from the line graph, throughout the three years there was four major spikes in layoffs. Beginning in April and May of 2020, more than 25 thousand layoffs occured per month. The last quarter of 2020 saw a steady decline in the rate of layoffs entering into 2021, this reduced rate of layoffs would remain till the first quarter of 2022  with a small spike during February  of 6,813 layoffs. March 2022 would see an increase in layoffs, with 12,885 employees being laid off. This would mark the start of an exponential explosion in the rate of layoffs across the globe. From march 2022 to october 2022, 69,679 employees were laid off, with the layoff of the last two months almost equaling that number, with 53,339 employees being laid off in November and 10,329 being laid off in December. . Begining 2023, January faced the highest peak of layoffs, 84,714 employees, and February followed with another 36,493 layoffs. In all, the number of layoffs reached 383,159 layoffs in total out of the three years in the dataset.
+
+#### Layoffs by company
+The dataset showed an exponential increase in layoffs in the last 3 years with some companies laying off their total work force and shutting down. Companies that laid off their entire workforce (100% layoffs) were majorly startups because the stage mentioned in the dataset indicated they were in the  early stages and did not have much funds for the company.
+
+![Top 10 companies with the most layoff and their stages2](https://github.com/user-attachments/assets/cf51502c-d282-4eb5-97ab-915d4f73f028)
+
+The top 10 largest firings occurred mostly in 2023 and 2022, with 47% taking place in 2023. The MAMA (Meta, Amazon, Microsoft, and Apple ) companies made up 4 of the top 5 largest layoffs.
+Companies with the highest layoff in a single day are Google(12000), Meta(11000), Amazon(10000), Microsoft(10000), Ericsson(8500).
+
+#### Layoffs by Country
+. United states had the highest number of layoffs in these 3 years.
+
+![Top 10 countries with the most layoffs2](https://github.com/user-attachments/assets/66834715-d3c9-4653-9ba3-fc24e812eb85)
+
+Checking the locations in US having the most number of layoffs
+
+![United States Layoffs By Locations ](https://github.com/user-attachments/assets/f9c98e41-fcf9-4049-b9b3-430a993a07c7)
+
+
