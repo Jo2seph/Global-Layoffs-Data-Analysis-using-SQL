@@ -148,12 +148,11 @@ The top 10 largest firings occurred mostly in 2023 and 2022, with 47% taking pla
 Companies with the highest layoff in a single day are Google(12000), Meta(11000), Amazon(10000), Microsoft(10000), Ericsson(8500).
 
 #### Layoffs by Country
-. United states had the highest number of layoffs in these 3 years.
+. United states had the highest number of layoffs in these 3 years, with 256,559 employees laid off in the United States. Out of 51 countries in the dataset the U.S Accounted for 70% of layoffs in the 3years timesframe.
 
 ![Top 10 countries with the most layoffs2](https://github.com/user-attachments/assets/66834715-d3c9-4653-9ba3-fc24e812eb85)
 
 Checking the locations in US having the most number of layoffs
 
 ![United States Layoffs By Locations ](https://github.com/user-attachments/assets/f9c98e41-fcf9-4049-b9b3-430a993a07c7)
-
-
+The San Francisco Bay Area had the highest Number of layoffs in the united states 
