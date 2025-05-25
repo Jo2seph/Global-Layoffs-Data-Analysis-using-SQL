@@ -156,3 +156,27 @@ Checking the locations in US having the most number of layoffs
 
 ![United States Layoffs By Locations ](https://github.com/user-attachments/assets/f9c98e41-fcf9-4049-b9b3-430a993a07c7)
 The San Francisco Bay Area had the highest Number of layoffs in the united states 
+
+### Key Insights and Statistics
+1. Total Layoffs: Across all companies in the dataset, a total of 383,159 employees were laid off, with a total of 1,995 different layoffs.
+2. Total Companies: The layoffs affected 1,640 companies worldwide.
+3. Countries Affected: A total of 51 countries experienced layoffs.
+4. Most Affected Country: The United States was the most affected, with 256,559 employees laid off.
+5. Most Affected Industry: The Consumer industry faced the highest number of layoffs, with 45,182 employees.
+6. Yearly Layoffs:
+* 2020: 80,998 layoffs
+* 2021: 15,823 layoffs
+* 2022: 160,661 layoffs
+* 2023: 125,677 layoffs (up to the point of data collection)
+7. Top Countries by Layoffs:
+* United States: 256,059 layoffs
+* India: 35,993 layoffs
+* Netherlands: 17,220 layoffs
+8. Top Industries by Layoffs:
+
+* Consumer: 45,182 layoffs
+* Retail: 43,613 layoffs
+* Transportation: 33,748 layoffs
+9. Layoffs by Funding Stage:
+Post-IPO companies experienced the most layoffs, with 204,132 employees affected.
+Other notable stages include Unknown (40,716 layoffs) and Acquired (27,576 layoffs)
