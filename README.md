@@ -7,7 +7,9 @@
 - [Key Questions asked](#key-questions-asked)
 - [Data Cleaning](#data-cleaning)
 - [Exploratory data analysis](#exploratory-data-analysis)
-- [Conclusion](#conclusion)
+- [Key Insights and Statistics](#key-insights-and-statistics)
+- [Limitations](#limitations).
+- [Conclusion](#conclusion).
 - [References](#conclusion)
 
 ### Project Overview
@@ -186,4 +188,11 @@ This analysis highlights the widespread impact of layoffs globally, with certain
 The factors causing the layoffs were mostly economic,market and operational. By understanding these dynamics, businesses and policymakers can make decisions to support affected industries and protect jobs to face future challenges.
 
 ### Limitations
+The Dataset had 801 rows with null or missing values in the total_laid_off and  percentage_laid_off columns which could not be repopulated and limited the analysis which could be carried out on the data. The majority of layoffs are reported in the United States, which could be due to better data availability rather than a true reflection of global trends. This geographical bias may limit the applicability of findings to other regions, especially those with less transparency or reporting on layoffs.
+
+### References 
+https://youtu.be/4UltKCnnnTA?si=y5eUP4qOzPL41XE0
+
+https://youtu.be/QYd-RtK58VQ?si=h1yxSY_WNH_hh201
+
 
