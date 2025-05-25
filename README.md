@@ -158,7 +158,13 @@ Companies with the highest layoff in a single day are Google(12000), Meta(11000)
 Checking the locations in US having the most number of layoffs
 
 ![United States Layoffs By Locations ](https://github.com/user-attachments/assets/f9c98e41-fcf9-4049-b9b3-430a993a07c7)
-The San Francisco Bay Area had the highest Number of layoffs in the united states 
+The San Francisco Bay Area had the highest Number of layoffs in the united states with 125,551 employess losing their jobs between 2020-2023 making up 70% of the top 10 locations with the highest number of layoffs in the United states, locations like Seattle and New York had layoffs of 34,743 and 29,364 and made up 15% and 13% of the top 10 location with the highest layoffs respectively.
+
+#### Layoffs by Industry
+
+![totl lay offs per industry](https://github.com/user-attachments/assets/2a7b7408-43a6-439a-b646-c2a3a55847c6)
+
+The consumer sector had the highest layoffs with 45,182 employees losing their jobs, the retail and transport industries had layoffs of 43,613 and 33,543 respectively.
 
 ### Key Insights and Statistics
 1. Total Layoffs: Across all companies in the dataset, a total of 383,159 employees were laid off, with a total of 1,995 different layoffs.
