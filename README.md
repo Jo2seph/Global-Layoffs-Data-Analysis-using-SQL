@@ -167,20 +167,19 @@ The San Francisco Bay Area had the highest Number of layoffs in the united state
 6. Yearly Layoffs:
 * 2020: 80,998 layoffs
 * 2021: 15,823 layoffs
-* 2022: 160,661 layoffs
+* 2022: 160,322 layoffs
 * 2023: 125,677 layoffs (up to the point of data collection)
 7. Top Countries by Layoffs:
 * United States: 256,059 layoffs
 * India: 35,993 layoffs
 * Netherlands: 17,220 layoffs
 8. Top Industries by Layoffs:
-
 * Consumer: 45,182 layoffs
 * Retail: 43,613 layofffs
-* Transportation: 33,748 layoffs
+* Transportation: 33,209 layoffs
 9. Layoffs by Funding Stage:
 Post-IPO companies experienced the most layoffs, with 204,132 employees affected.
 Other notable stages include Unknown (40,716 layoffs) and Acquired (27,576 layoffs)
 
 ### Conclusion
-This analysis highlights the widespread impact of layoffs globally, with certain industries and countries being particularly vulnerable, the United States was the most affected country making up 70% of the top 10 countries with the highest layoffs globally, with locations like the San Francisco Bay area in California, Seattle and New York being the most affected. Countries like India and the Netherlands made up 10% and 5% of the top 10 layoffs by countries respectively. The Consumer industry, particularly companies in the Post-IPO stage, experienced the highest layoffs. The layoffs were not evenly distributed over time, with spikes in 2020, which could be tied to the covid-19 global pandemic which affected consumer, retail, travel and transportation industries as people bought less goods from shops and travelled less due to global travel restictions. Spikes in global layoffs also occured in 2022. 2022 and Companies that raised significant funds were not immune to layoffs, suggesting broader economic or industry-specific challenges rather than issues related to capital availability. The MAMA (formerly FANG) — [Meta, Amazon, Microsoft, and Apple] companies made up the top 4 of the top 10 companies globally with the most layoffs, indicating possible foresight and preparation for an approaching recession.Industries which were affected the most in the dataset were Consumer sector and Tech sector. Consumer sector was affected because of the shift to online shopping, supply chain issues, and rising costs.The tech sector also saw substantial layoffs, especially among post-IPO companies. Despite having considerable funds, these companies faced pressure to
+This analysis highlights the widespread impact of layoffs globally, with certain industries and countries being particularly vulnerable, the United States was the most affected country making up 70% of the top 10 countries with the highest layoffs globally, with locations like the San Francisco Bay area in California, Seattle and New York being the most affected. Countries like India and the Netherlands made up 10% and 5% of the top 10 layoffs by countries respectively. The Consumer industry, particularly companies in the Post-IPO stage, experienced the highest layoffs. The layoffs were not evenly distributed over time, with spikes in 2020, which could be tied to the covid-19 global pandemic which affected consumer, retail, travel and transportation industries as people bought less goods from shops and travelled less due to global travel restictions. Spikes in global layoffs also occured in 2022. 2022 and 2023 had tge highest number of lay offs with 160,322 and 125,677 layoffs respectively. Companies that raised significant funds were not immune to layoffs, suggesting broader economic or industry-specific challenges rather than issues related to capital availability. The MAMA (formerly FANG) — [Meta, Amazon, Microsoft, and Apple] companies made up the top 4 of the top 10 companies globally with the most layoffs, indicating possible foresight and preparation for an approaching recession.Industries which were affected the most in the dataset were Consumer sector and Tech sector. Consumer sector was affected because of the shift to online shopping, supply chain issues, and rising costs.The tech sector also saw substantial layoffs, especially among post-IPO companies. Despite having considerable funds, these companies faced pressure to
