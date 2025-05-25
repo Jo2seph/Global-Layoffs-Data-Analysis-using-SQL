@@ -9,7 +9,7 @@
 - [Exploratory data analysis](#exploratory-data-analysis)
 - [Conclusion](#conclusion)
 - [References](#conclusion)
-- 
+
 ### Project Overview
 The primary goal of this project is to analyze global layoff data to identify trends, patterns, and insights. This analysis will help understand the factors influencing layoffs, the industries most affected and geographical trends.
 ### Data Source
@@ -35,7 +35,8 @@ The full data fields descriptions are below:
 - funds_raised_millions (int): The total amount of funds the company as raised in millions of dollars.
 
 ### Tools 
-MYSQL Server – Data cleaning and analysis [Download here (https://www.google.com/url?sa=t&source=w)]
+* MYSQL Server – Data cleaning and analysis [Download here (https://www.google.com/url?sa=t&source=w)]
+* Microsoft Excel - Data Visualization and creation of charts [Download here (https://www.microsoft.com/en/microsoft-365/excel)]
 
 ### Key Questions asked
 
@@ -64,7 +65,7 @@ MYSQL Server – Data cleaning and analysis [Download here (https://www.google.c
 - Total layoffs with respect to stage of the business ?
 
 - Is there a correlation between company size and layoffs ?
--
+
 ### Data Cleaning 
 
 #### Creating a Staging Table
@@ -180,3 +181,6 @@ The San Francisco Bay Area had the highest Number of layoffs in the united state
 9. Layoffs by Funding Stage:
 Post-IPO companies experienced the most layoffs, with 204,132 employees affected.
 Other notable stages include Unknown (40,716 layoffs) and Acquired (27,576 layoffs)
+
+### Conclusion
+This analysis highlights the widespread impact of layoffs globally, with certain industries and countries being particularly vulnerable The Consumer industry, particularly companies in the Post-IPO stage, experienced the highest layoffs. The layoffs were not evenly distributed over time, with spikes in 2020 and 2022. Companies that raised significant funds were not immune to layoffs, suggesting broader economic or industry-specific challenges rather than issues related to capital availability. The MAMAA (formerly FANG) — [Meta, Amazon, Microsoft, and Apple] companies made up the top 4 of the top 10 companies globally with the most layoffs, indicating possible foresight and preparation for an approaching recession.Industries which affected the most due in the dataset were Consumer sector and Tech sector. Consumer sector was affected because the shift to online shopping, supply chain issues, and rising costs.The tech sector also saw substantial layoffs, especially among post-IPO companies. Despite having considerable funds, these companies faced pressure to achieve profitability and maintain investor confidence, leading to operational restructuring and workforce cuts.
